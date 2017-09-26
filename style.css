@@ -1,0 +1,10 @@
+.block {
+    width: 100px;
+}
+
+.block .subblock {
+    height: 100px;
+    border-bottom: 10px;
+}
+
+/*# sourceMappingURL=style.css.map */
